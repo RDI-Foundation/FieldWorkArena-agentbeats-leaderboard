@@ -1,0 +1,87 @@
+{
+  "manifest_version": "0.1.0",
+  "config_schema": {
+    "type": "object",
+    "properties": {
+      "agent_hf_token": {
+        "type": "string",
+        "secret": true
+      },
+      "agent_openai_api_key": {
+        "type": "string",
+        "secret": true
+      },
+      "green_hf_token": {
+        "type": "string",
+        "secret": true
+      },
+      "green_openai_api_key": {
+        "type": "string",
+        "secret": true
+      }
+    },
+    "required": [
+      "green_openai_api_key",
+      "green_hf_token",
+      "agent_openai_api_key",
+      "agent_hf_token"
+    ],
+    "additionalProperties": false
+  },
+  "components": {
+    "gateway": {
+      "manifest": "https://raw.githubusercontent.com/RDI-Foundation/agentbeats-gateway/refs/tags/v0.1/amber-manifest.json5",
+      "config": {
+        "assessment_config": {
+          "target": "custom"
+        },
+        "participant_roles": {
+          "green": "green",
+          "purple1": "agent"
+        },
+        "callback_urls": {
+          "green": "${bindings.green-proxy.url}"
+        }
+      }
+    },
+    "green": {
+      "manifest": "https://raw.githubusercontent.com/RDI-Foundation/FieldWorkArena-agentbeats/refs/heads/main/amber/amber-manifest-green.json5",
+      "config": {
+        "hf_token": "${config.green_hf_token}",
+        "openai_api_key": "${config.green_openai_api_key}"
+      }
+    },
+    "agent": {
+      "manifest": "https://raw.githubusercontent.com/RDI-Foundation/FieldWorkArena-agentbeats/refs/heads/main/amber/amber-manifest-purple.json5",
+      "config": {
+        "hf_token": "${config.agent_hf_token}",
+        "openai_api_key": "${config.agent_openai_api_key}"
+      }
+    }
+  },
+  "bindings": [
+    {
+      "to": "#gateway.green",
+      "from": "#green.a2a"
+    },
+    {
+      "to": "#gateway.purple1",
+      "from": "#agent.a2a"
+    },
+    {
+      "to": "#green.proxy",
+      "from": "#gateway.proxy",
+      "weak": true,
+      "name": "green-proxy"
+    }
+  ],
+  "exports": {
+    "results": "#gateway.results"
+  },
+  "metadata": {
+    "agentbeats_ids": {
+      "green": "019cfcce-a316-7fe0-8b7f-fbfc4706534a",
+      "agent": "019cfcd0-390e-7fa3-8880-d43aea855416"
+    }
+  }
+}
