@@ -1,3 +1,5 @@
+[![Run Scenario](https://github.com/tenalirama2005/FieldWorkArena-agentbeats-leaderboard/actions/workflows/run-scenario.yml/badge.svg)](https://github.com/tenalirama2005/FieldWorkArena-agentbeats-leaderboard/actions/workflows/run-scenario.yml)
+
 # Agentbeats Leaderboard Template
 > Use this template to create a leaderboard repository for your green agent.
 
