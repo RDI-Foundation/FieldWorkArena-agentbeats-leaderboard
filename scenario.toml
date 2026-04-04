@@ -1,16 +1,11 @@
 [green_agent]
 agentbeats_id = ""
-env = { API_KEY = "${GITHUB_SECRET_NAME}", LOG_LEVEL = "INFO" }
+env = { HF_TOKEN = "${HF_TOKEN}", OPENAI_API_KEY = "${OPENAI_API_KEY}" }
 
 [[participants]]
-agentbeats_id = ""
-name = "role_1_name"
-env = {}
-
-[[participants]]
-agentbeats_id = ""
-name = "role_2_name"
-env = {}
+agentbeats_id = "019d5726-c535-7bb1-9a35-07b110922d28"
+name = "agent"
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", HF_TOKEN = "${HF_TOKEN}" }
 
 [config]
-# Add your assessment config here
+target = "factory"
