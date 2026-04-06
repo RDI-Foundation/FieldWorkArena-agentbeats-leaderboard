@@ -1,0 +1,412 @@
+{
+  "status": "completed",
+  "results": [
+    {
+      "target": "factory",
+      "total_tasks": 79,
+      "total_score": 26.700000000000003,
+      "score_rate": 0.3379746835443038,
+      "task_results": [
+        {
+          "task_id": "1.1.0024",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "1.1.0025",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "1.1.0026",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "1.1.0027",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "1.1.0028",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "1.1.0029",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "1.1.0030",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "1.1.0031",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "1.1.0032",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0011",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0012",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0013",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0014",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0015",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0016",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0017",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0018",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0019",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0020",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0021",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0022",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0023",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0024",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0025",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0026",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0027",
+          "score": 0.8,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0028",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0029",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0030",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0041",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0042",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0043",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0044",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0045",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0046",
+          "score": 1.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0047",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0048",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0049",
+          "score": 0.9,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0050",
+          "score": 0.0,
+          "eval_func": "numerical_match"
+        },
+        {
+          "task_id": "2.3.0051",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0052",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0054",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0056",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0057",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0058",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0059",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0060",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0071",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0072",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0073",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0074",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0075",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0076",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0083",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0084",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0085",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0086",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0087",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.3.0088",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h25m1.079849058s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12301s'}]}}\""
+        },
+        {
+          "task_id": "2.3.0089",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h25m0.345660574s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12300s'}]}}\""
+        },
+        {
+          "task_id": "2.3.0090",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m59.564831853s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12299s'}]}}\""
+        },
+        {
+          "task_id": "2.3.0091",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m58.87578512s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12298s'}]}}\""
+        },
+        {
+          "task_id": "2.3.0092",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m58.151925269s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12298s'}]}}\""
+        },
+        {
+          "task_id": "3.3.0003",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m57.178925295s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12297s'}]}}\""
+        },
+        {
+          "task_id": "3.3.0004",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m56.292873322s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12296s'}]}}\""
+        },
+        {
+          "task_id": "3.3.0005",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m55.567916978s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12295s'}]}}\""
+        },
+        {
+          "task_id": "3.3.0007",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m54.463656612s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12294s'}]}}\""
+        },
+        {
+          "task_id": "3.4.0003",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m53.578871953s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12293s'}]}}\""
+        },
+        {
+          "task_id": "3.4.0004",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m52.694560666s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'model': 'gemini-3.1-pro', 'location': 'global'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12292s'}]}}\""
+        },
+        {
+          "task_id": "3.4.0005",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m51.945067362s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12291s'}]}}\""
+        },
+        {
+          "task_id": "3.4.0007",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m51.036281725s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12291s'}]}}\""
+        },
+        {
+          "task_id": "4.2.0001",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m50.036154819s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12290s'}]}}\""
+        },
+        {
+          "task_id": "4.2.0002",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m49.235683919s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12289s'}]}}\""
+        },
+        {
+          "task_id": "4.2.0003",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m48.381773029s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12288s'}]}}\""
+        },
+        {
+          "task_id": "4.2.0004",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m47.581462972s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12287s'}]}}\""
+        },
+        {
+          "task_id": "4.2.0005",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m46.778826099s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12286s'}]}}\""
+        },
+        {
+          "task_id": "4.2.0026",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientHTTPError: HTTP Error 503: Network communication error fetching agent card from http://127.0.0.1:20000/agent/.well-known/agent-card.json: Server disconnected without sending a response."
+        },
+        {
+          "task_id": "4.2.0028",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m45.969989863s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'model': 'gemini-3.1-pro', 'location': 'global'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12285s'}]}}\""
+        },
+        {
+          "task_id": "4.2.0030",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientJSONRPCError: JSON-RPC Error code=-32603 data=None message=\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 250, model: gemini-3.1-pro\\\\nPlease retry in 3h24m45.285520578s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_requests_per_model_per_day', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-pro'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12285s'}]}}\""
+        }
+      ]
+    }
+  ],
+  "participants": {
+    "green": "019cfcce-a316-7fe0-8b7f-fbfc4706534a",
+    "agent": "019d5726-c535-7bb1-9a35-07b110922d28"
+  }
+}
