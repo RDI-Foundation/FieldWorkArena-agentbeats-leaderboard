@@ -1,0 +1,412 @@
+{
+  "status": "completed",
+  "results": [
+    {
+      "target": "factory",
+      "total_tasks": 79,
+      "total_score": 0.0,
+      "score_rate": 0.0,
+      "task_results": [
+        {
+          "task_id": "1.1.0024",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_Translation_FQ510-042_Wearing_Gloves.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0025",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_Translation_FQ510-042_Wearing_Gloves.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0026",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_Translation_FQ510-042_Wearing_Gloves.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0027",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_Translation_FQ510-042_Wearing_Gloves.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0028",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_Translation_FQ510-042_Wearing_Gloves.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0029",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_Translation_FQ510-042_Wearing_Gloves.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0030",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0031",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0032",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0011",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_00_35.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0012",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_01_38.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0013",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_04_14.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0014",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_05_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0015",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_11_27.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0016",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_00_35.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0017",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_01_38.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0018",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_04_14.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0019",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_05_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0020",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_11_27.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0021",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_05_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0022",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_09_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0023",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_13_55.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0024",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C6_197_3_09.30.08_13_48.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0025",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_TANA_201_3_09.30.08_09_20.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0026",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_05_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0027",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_09_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0028",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_13_55.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0029",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C6_197_3_09.30.08_13_48.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0030",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_TANA_201_3_09.30.08_09_20.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0041",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_05_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0042",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_09_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0043",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_13_55.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0044",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C6_197_3_09.30.08_13_48.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0045",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_TANA_201_3_09.30.08_09_20.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0046",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_199_3_09.42.25_29_56.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0047",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_199_3_09.42.25_47_25.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0048",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_200_3_09.41.46_05_54.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0049",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_200_3_09.41.46_30_00.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0050",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_TANA_201_3_09.30.08_12_23.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0051",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4N_188_3_09.30.08_00_18.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0052",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4N_188_3_09.30.08_02_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0054",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4N_188_3_09.30.08_07_18.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0056",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C5YS_189_3_09.30.08_03_06.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0057",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C5YS_189_3_09.30.08_04_54.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0058",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C5YS_189_3_09.30.08_07_36.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0059",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C5YS_189_3_09.30.08_08_09.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0060",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C5YS_189_3_09.30.08_14_18.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0071",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_199_3_09.42.25_29_56.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0072",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_199_3_09.42.25_47_25.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0073",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_199_3_09.42.25_51_35.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0074",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_200_3_09.41.46_05_54.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0075",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_200_3_09.41.46_30_00.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0076",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_200_3_09.41.46_43_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0083",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_00_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0084",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_02_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0085",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_06_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0086",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_03_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0087",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_08_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0088",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_03_26.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0089",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_04_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0090",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_04_22.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0091",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_05_20.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0092",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_06_58.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.3.0003",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_09_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.3.0004",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_05_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.3.0005",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4N_188_3_09.30.08_00_18.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.3.0007",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_00_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.4.0003",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_09_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.4.0004",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_05_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.4.0005",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4N_188_3_09.30.08_00_18.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.4.0007",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_00_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0001",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0002",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0003",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0004",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0005",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0026",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_05_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0028",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4N_188_3_09.30.08_00_18.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0030",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_00_40.jpg'. Status code: 401"
+        }
+      ]
+    }
+  ],
+  "participants": {
+    "green": "019cfcce-a316-7fe0-8b7f-fbfc4706534a",
+    "agent": "019d5726-c535-7bb1-9a35-07b110922d28"
+  }
+}
