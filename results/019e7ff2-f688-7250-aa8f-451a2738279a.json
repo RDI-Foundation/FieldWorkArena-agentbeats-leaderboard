@@ -1,0 +1,32 @@
+{
+  "status": "completed",
+  "results": [
+    {
+      "target": "custom",
+      "total_tasks": 3,
+      "total_score": 1.0,
+      "score_rate": 0.3333333333333333,
+      "task_results": [
+        {
+          "task_id": "1.1.0024",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientHTTPError: HTTP Error 422: Client error '422 Unprocessable Content' for url 'http://127.0.0.1:20000/agent'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422"
+        },
+        {
+          "task_id": "2.1.0075",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "4.1.2001",
+          "score": 0.0,
+          "error": "Error communicating with agent at http://127.0.0.1:20000/agent: A2AClientHTTPError: HTTP Error 422: Client error '422 Unprocessable Content' for url 'http://127.0.0.1:20000/agent'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422"
+        }
+      ]
+    }
+  ],
+  "participants": {
+    "green": "019cfcce-a316-7fe0-8b7f-fbfc4706534a",
+    "agent": "019e4e84-ae64-7e62-9c65-a81b1f8da0f1"
+  }
+}
