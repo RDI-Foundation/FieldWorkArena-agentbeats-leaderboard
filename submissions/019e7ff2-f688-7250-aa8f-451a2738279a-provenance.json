@@ -1,0 +1,22 @@
+{
+  "image_digests": {
+    "/agent": "tenalirama2026/universal-router@sha256:ac3cce21f54429c41719a1c015a495b5a2757c137c3f9c4e09de0f054789a228",
+    "/gateway": "ghcr.io/rdi-foundation/agentbeats-gateway@sha256:30f49abcc6f0b14a2498e645cd6f1f7d0e57316f82224ba18f4cad76e08e02a7",
+    "/green": "ghcr.io/ast-fri/fieldworkarena-greenagent-fwa-server@sha256:f5aebbac191229880f83fcc672c73740ee13c07643555ff6c777e7d65fa0cbc7"
+  },
+  "manifest_digests": {
+    "/": "sha256:YMt5Hna4v0O9QoDuAM8BbrgOMW7OVEwp4Opr18HimSA=",
+    "/agent": "sha256:LdoOtWJlNVfVu5mE2tITygoC7QAJlEyNyuKFFymptqk=",
+    "/gateway": "sha256:YWNLWt2Oy0QNqtALcnrq3tH63EZKGzOG1c1xI1EywTw=",
+    "/green": "sha256:I5gW4mhbkQRe/cBq3sgv8a/hDacQg2MfCzRSaKQbiaA="
+  },
+  "timestamp": "2026-05-31T21:33:12Z",
+  "github_actions": {
+    "run_url": "https://github.com/RDI-Foundation/FieldWorkArena-agentbeats-leaderboard/actions/runs/26725050754",
+    "ref": "refs/pull/141/merge",
+    "sha": "d175a1b85c83e8884b754f2b9d23918642ad606c",
+    "repository_url": "https://github.com/RDI-Foundation/FieldWorkArena-agentbeats-leaderboard",
+    "workflow_ref": "RDI-Foundation/FieldWorkArena-agentbeats-leaderboard/.github/workflows/quick-submit.yml@refs/pull/141/merge",
+    "workflow_sha": "d175a1b85c83e8884b754f2b9d23918642ad606c"
+  }
+}
