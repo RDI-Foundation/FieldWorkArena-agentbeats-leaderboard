@@ -1,0 +1,108 @@
+{
+  "manifest_version": "0.1.0",
+  "config_schema": {
+    "type": "object",
+    "properties": {
+      "agent_malt_azure_openai_key": {
+        "type": "string",
+        "secret": true
+      },
+      "agent_nebius_api_key": {
+        "type": "string",
+        "secret": true
+      },
+      "agent_nvidia_api_key": {
+        "type": "string",
+        "secret": true
+      },
+      "agent_openai_api_key": {
+        "type": "string",
+        "secret": true
+      },
+      "agent_pibench_azure_openai_key": {
+        "type": "string",
+        "secret": true
+      },
+      "green_hf_token": {
+        "type": "string",
+        "secret": true
+      },
+      "green_openai_api_key": {
+        "type": "string",
+        "secret": true
+      }
+    },
+    "required": [
+      "green_openai_api_key",
+      "green_hf_token",
+      "agent_openai_api_key"
+    ],
+    "additionalProperties": false
+  },
+  "components": {
+    "gateway": {
+      "manifest": "https://raw.githubusercontent.com/RDI-Foundation/agentbeats-gateway/refs/tags/v0.1/amber-manifest.json5",
+      "config": {
+        "assessment_config": {
+          "target": "all"
+        },
+        "participant_roles": {
+          "green": "green",
+          "purple1": "agent"
+        },
+        "callback_urls": {
+          "green": "${bindings.green-proxy.url}",
+          "purple1": "${bindings.purple1-proxy.url}"
+        }
+      }
+    },
+    "green": {
+      "manifest": "https://raw.githubusercontent.com/RDI-Foundation/FieldWorkArena-agentbeats/refs/heads/main/amber/amber-manifest-green.json5",
+      "config": {
+        "hf_token": "${config.green_hf_token}",
+        "openai_api_key": "${config.green_openai_api_key}"
+      }
+    },
+    "agent": {
+      "manifest": "https://raw.githubusercontent.com/tenalirama2005/universal-router/main/amber-manifest.json5",
+      "config": {
+        "malt_azure_openai_key": "${config.agent_malt_azure_openai_key}",
+        "nebius_api_key": "${config.agent_nebius_api_key}",
+        "nvidia_api_key": "${config.agent_nvidia_api_key}",
+        "openai_api_key": "${config.agent_openai_api_key}",
+        "pibench_azure_openai_key": "${config.agent_pibench_azure_openai_key}"
+      }
+    }
+  },
+  "bindings": [
+    {
+      "to": "#gateway.green",
+      "from": "#green.a2a"
+    },
+    {
+      "to": "#gateway.purple1",
+      "from": "#agent.a2a"
+    },
+    {
+      "to": "#green.proxy",
+      "from": "#gateway.proxy",
+      "weak": true,
+      "name": "green-proxy"
+    },
+    {
+      "to": "#agent.proxy",
+      "from": "#gateway.proxy",
+      "weak": true,
+      "name": "purple1-proxy"
+    }
+  ],
+  "exports": {
+    "results": "#gateway.results"
+  },
+  "metadata": {
+    "agentbeats_ids": {
+      "green": "019cfcce-a316-7fe0-8b7f-fbfc4706534a",
+      "agent": "019e4e84-ae64-7e62-9c65-a81b1f8da0f1"
+    }
+  }
+}
